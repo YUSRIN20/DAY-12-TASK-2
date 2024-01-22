@@ -16,6 +16,11 @@ This GitHub repository houses a meticulously crafted event page built using `HTM
   
 Feel free to clone or fork this repository to kickstart your own event page development or customize it further based on your specific needs. Contributions and feedback are welcome to make this project even more versatile and robust.
   
- **I Attached the Output Image in Below👇**
+**Deployed source code link👇**
 
+If you wanna try this application **[Event page](https://music-event-page.netlify.app/)**
+
+
+ **I Attached the Output Image in Below👇**
+ 
 ![Survey Form Image](/Event-Page%202024-01-21%20225827.png)
